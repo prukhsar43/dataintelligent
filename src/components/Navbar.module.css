@@ -1,0 +1,11 @@
+.label{
+   text-decoration: none;
+   color:white
+}
+ .label:hover{
+     color:white;
+ }
+.label{
+    font-weight: bolder;
+    font-size: larger;
+}
